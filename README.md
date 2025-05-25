@@ -39,25 +39,24 @@ java TinyEdit
 
 # FAQ
 
-## It's not running. How do I fix this?
+### It's not running. How do I fix this?
 
 To run java files, you may need to install JRE for it to work.
 
-## How did you make this?
+### How did you make this?
 
 I made it with some help with AI.
 
-## How do I customize it?
+### How do I customize it?
 
 To customize TinyEdit, you need to edit the .java file and then recompile it.
 
-## The config is so complex. Where is the documention?
+### The config is so complex. Where is the documention?
 
 I dont know how to make more modfications on this text editor, But you can find some tutrouirals to find somthing good.
 
-## I WANT THE DOCUMENTION!!
-
-[Here is the documention.][https://github.com/bingus912/tinyedit/wiki] It is unfinsed, but you may not find it user friendly.
+### I WANT THE DOCUMENTION!!
+[Here is the documention.](https://github.com/bingus912/tinyedit/wiki) It is unfinsed, but you may not find it user friendly.
 
 ***
 
