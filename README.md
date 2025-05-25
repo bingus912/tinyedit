@@ -10,7 +10,7 @@ A tiny text editor at a whopping 4 KB!
 1. Install JDK
 2. Install JRE (optional)
 3. Download the .java file from this repo (or git clone it)
-4. Complie the .java file
+4. Compile the .java file
 ```sh
 javac TinyEdit.java
 ```
@@ -28,16 +28,43 @@ java TinyEdit
 
 ***
 
+# Features
+
+- Simple and lightweight text editor
+- Open and save text files
+- Cross-platform compatibility
+- Easy to use interface
+
+***
+
 # FAQ
 
 ## It's not running. How do I fix this?
 
-To run java files, You may need to install JRE for it to work.
+To run java files, you may need to install JRE for it to work.
 
 ## How did you make this?
 
 I made it with some help with AI.
 
-## How do I cosumise it?
+## How do I customize it?
 
-To cosumise TinyEdit, You need to edit the .java File and then recomplie it.
+To customize TinyEdit, you need to edit the .java file and then recompile it.
+
+***
+
+# Contributing
+
+We welcome contributions to TinyEdit! If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository and create your branch from `main`.
+2. If you've added code that should be tested, add tests.
+3. Ensure the test suite passes.
+4. Make sure your code lints.
+5. Issue that pull request!
+
+***
+
+# License
+
+This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
