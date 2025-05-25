@@ -57,7 +57,7 @@ I dont know how to make more modfications on this text editor, But you can find 
 
 ## I WANT THE DOCUMENTION!!
 
-Click the wiki button for documention. It is unfinsed, but you may not find it user friendly.
+[Here is the documention.][https://github.com/bingus912/tinyedit/wiki] It is unfinsed, but you may not find it user friendly.
 
 ***
 
