@@ -30,14 +30,14 @@ java TinyEdit
 
 # FAQ
 
-**It's not running. How do I fix this?**
+## It's not running. How do I fix this?
 
 To run java files, You may need to install JRE for it to work.
 
-**How did you make this?**
+## How did you make this?
 
 I made it with some help with AI.
 
-**How do I cosumise it?**
+## How do I cosumise it?
 
 To cosumise TinyEdit, You need to edit the .java File and then recomplie it.
