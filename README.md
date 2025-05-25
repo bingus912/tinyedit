@@ -34,6 +34,10 @@ java TinyEdit
 - Open and save text files
 - Cross-platform compatibility
 - Easy to use interface
+- Syntax highlighting for common programming languages
+- Code completion
+- Basic debugging tool with breakpoints and variable inspection
+- Version control support for Git
 
 ***
 
