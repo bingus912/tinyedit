@@ -68,13 +68,13 @@ I dont know how to make more modfications on this text editor, But you can find 
 
 # Contributing
 
-We welcome contributions to TinyEdit! If you would like to contribute, please follow these guidelines:
+If you would like to contribute, please follow these guidelines:
 
 1. Fork the repository and create your branch from `main`.
 2. If you've added code that should be tested, add tests.
 3. Ensure the test suite passes.
 4. Make sure your code lints.
-5. Issue that pull request!
+5. Issue a pull request.
 
 ***
 
