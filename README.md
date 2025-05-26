@@ -59,7 +59,7 @@ To customize TinyEdit, you need to edit the .java file and then recompile it.
 
 ### The config is so complex. Where is the documention?
 
-I dont know how to make more modfications on this text editor, But you can find some tutrouirals to find somthing good.
+I dont know how to make more modfications on this text editor, But you can find some tutrouirals to find somthing good. Or resort to using the [Presets.](https://github.com/bingus912/tinyedit/tree/main/presets)
 
 ### I WANT THE DOCUMENTION!!
 [Here is the documention.](https://github.com/bingus912/tinyedit/wiki) It is unfinsed, but you may not find it user friendly.
