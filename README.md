@@ -31,6 +31,7 @@ java TinyEdit
 ```
 java TinyEdit
 ```
+You can also run TinyEdit with RunClass64, A easy way to run class Files.
 
 ***
 
