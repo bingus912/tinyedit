@@ -25,9 +25,18 @@ jobs:
       - name: Compile TinyEdit.java
         run: javac TinyEdit.java
 
-      - name: Run TinyEdit
-        run: java TinyEdit
-
+      - name: Run TinyEdit within 3 sec
+        run: |
+          Start-Process java -ArgumentList 'YourMainClass' -PassThru | ForEach-Object {
+            $process = $_
+            Start-Sleep -Seconds 3
+            if (!$process.HasExited) {
+              Write-Host "Process still running after 3 seconds. Killing..."
+              Stop-Process -Id $process.Id -Force
+              exit 1
+            }
+          }
+          
       - name: Download Checkstyle
         run: |
           curl -L -o checkstyle.jar https://github.com/checkstyle/checkstyle/releases/download/checkstyle-10.12.1/checkstyle-10.12.1-all.jar
