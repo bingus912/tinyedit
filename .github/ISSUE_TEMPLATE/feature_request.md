@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+- [ ] This enhancement is not about adding sppourt to other OS'es and code that dosent reach the max file size [4KB] when added
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is.
 
